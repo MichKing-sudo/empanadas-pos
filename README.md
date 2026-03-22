@@ -267,9 +267,8 @@ El módulo de informes ofrece una visión clara y visual del negocio:
 
 ## 👨‍💻 Equipo
 
-| Nombre | Rol |
-|--------|-----|
-| *(Tu nombre aquí)* | Desarrollador Full Stack |
+
+| Jhon Michael Montes Afanador | Desarrollador Full Stack |
 
 ---
 
