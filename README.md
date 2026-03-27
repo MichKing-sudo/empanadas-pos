@@ -278,7 +278,7 @@ El módulo de informes ofrece una visión clara y visual del negocio:
 
 ## 📄 Licencia
 
-Este proyecto es de uso académico. Desarrollado como proyecto de aula para el curso de Desarrollo Web con Laravel.
+Este proyecto es de uso académico. Desarrollado como proyecto de aula para el curso de Desarrollo de aplicaciones empresariales.
 
 ---
 
