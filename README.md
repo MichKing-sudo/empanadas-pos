@@ -271,6 +271,7 @@ El módulo de informes ofrece una visión clara y visual del negocio:
 | Jhon Michael Montes Afanador | Desarrollador Full Stack |
 | Jairo Andres Ariza Hernandez | Analista de Calidad de Software |
 | Sergio Andres Medina Vitola | Analista de Calidad de Software |
+| Santiago Andres Garcia Guerrero | Analista De Sistemas/Programador |
 
 ---
 
